@@ -1,5 +1,5 @@
-#Standalone Acquisition Program
-#created by Dicky Dwiantoro
+#BPSK Signal acquisition simulation
+#Copyright (c) 2018 space_nav
 
 import math as mt
 import numpy as np
